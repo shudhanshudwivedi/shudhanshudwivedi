@@ -86,5 +86,22 @@ Interested in:
 - Cloud Engineer Roles
 - AWS Administrator Roles
 - Site Reliability Engineer Roles
+- ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shudhanshudwivedi&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shudhanshudwivedi)
+
+---
+
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=shudhanshudwivedi&color=blue)
 
 Thanks for visiting my profile!

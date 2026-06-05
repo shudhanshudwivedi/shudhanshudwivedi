@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋, I'm Shudhanshu Dwivedi
 
-<!--
-**shudhanshudwivedi/shudhanshudwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Terraform | Linux
 
-Here are some ideas to get you started:
+🚀 Passionate about Cloud Computing, DevOps and Infrastructure Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Advanced Kubernetes, Terraform and AWS Services
+
+🎯 Goal: Become a DevOps / Cloud Engineer
+
+📍 India
+
+---
+
+## About Me
+
+- DevOps Enthusiast
+- AWS Cloud Practitioner
+- Experience with CI/CD Pipelines
+- Infrastructure Automation
+- Containerization and Orchestration
+- Open To Work
+
+---
+
+## Tech Stack
+
+- AWS
+- Linux
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Git
+- GitHub
+- SonarQube
+- Trivy
+
+---
+
+## Featured Projects
+
+### AWS 3-Tier Architecture Deployment
+
+Deployment of a 3-Tier Application using:
+
+- AWS EC2
+- RDS
+- VPC
+- S3
+- Route 53
+
+Repository:
+https://github.com/shudhanshudwivedi/aws-3-tier-architecture-shudhanshu
+
+---
+
+### BookMyShow DevSecOps Deployment
+
+End-to-End DevSecOps Pipeline using:
+
+- GitHub
+- Jenkins
+- SonarQube
+- Trivy
+- Docker
+- Kubernetes
+
+Repository:
+https://github.com/shudhanshudwivedi/bookmyshow-devops-shudhanshu
+
+---
+
+## Connect With Me
+
+- LinkedIn (Add your LinkedIn URL)
+- Email: Add Your Email
+
+---
+
+## Open To Work
+
+Interested in:
+
+- DevOps Engineer Roles
+- Cloud Engineer Roles
+- AWS Administrator Roles
+- Site Reliability Engineer Roles
+
+Thanks for visiting my profile!

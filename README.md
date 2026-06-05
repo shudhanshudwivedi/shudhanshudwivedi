@@ -148,10 +148,13 @@ https://github.com/shudhanshudwivedi/bookmyshow-devops-shudhanshu
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shudhanshudwivedi&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shudhanshudwivedi&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=shudhanshudwivedi&show_icons=true&theme=radical)
 
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shudhanshudwivedi&theme=radical)
 ---
 
 ## 👀 Profile Visitors
